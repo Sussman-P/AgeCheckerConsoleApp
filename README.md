@@ -1,5 +1,5 @@
 
-# Project Title
+# Simple Age Checker
 
 This is a simple age checker created in C++ using edge cases to check for empty or incorrect inputs.
 
